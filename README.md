@@ -1,1 +1,1 @@
-# React-inter-s-compuesto-calculadora
+# React-interés-compuesto-calculadora
